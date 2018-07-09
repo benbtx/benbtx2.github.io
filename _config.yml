@@ -78,6 +78,6 @@ theme: jekyll-theme-tactile
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repository:https://github.com/benbtx/benbtx.github.io.git
-  branch:master
+  type: git
+  repository: https://github.com/benbtx/benbtx.github.io.git
+  branch: master
